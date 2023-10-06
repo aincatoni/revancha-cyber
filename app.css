@@ -231,6 +231,12 @@ a.buttonSeeAll:hover {
   color: var(--green-pcf);
 }
 
+.pcf-border-green {
+  border: solid 1px var(--green-pcf);
+  padding: 10px 10px 10px 20px;
+  word-break: break-word;
+}
+
 /****************************************/
 /****** Header Landing  *********/
 
